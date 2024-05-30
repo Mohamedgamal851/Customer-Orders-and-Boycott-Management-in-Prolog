@@ -9,15 +9,15 @@ and their alternatives.
 ## Facts (data.pl file):
 You must use this data file in your assignment. You are given some facts about customers,
 items, orders, boycott companies and their alternatives. For Example:
-customer(CustID, CustUserName).
+- customer(CustID, CustUserName).
 → customer(104, mazen122)<br>
-item(ItemName, companyName, Price).
+- item(ItemName, companyName, Price).
 → item(pepsi, “PepsiCo”, 8.5).<br>
-order(CustID,OrderID,[Items]).
+- order(CustID,OrderID,[Items]).
 → order(1,1,[ariel_4k, biskrem, cheese]).<br>
-boycott_company(companyName, justification).
+- boycott_company(companyName, justification).
 →boycott_company(“PepsiCo”, “PepsiCo purchased the ...”)<br>
-alternative(ItemName,AlternativeItem).
+- alternative(ItemName,AlternativeItem).
 →alternative(chipsy, tiger).
 
 ## Required Predicates:

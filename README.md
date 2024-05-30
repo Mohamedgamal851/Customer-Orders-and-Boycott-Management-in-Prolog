@@ -104,3 +104,8 @@ true.
 true.
 ?- item(alpella_wafer, 'Alpella', 4).
 false.
+
+## References
+https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset
+https://play.google.com/store/apps/details?id=com.moqate3.moqate3&hl=en_SG&gl=US
+https://www.tutorialspoint.com/prolog/index.htm

@@ -33,8 +33,6 @@ Example:
 ?- countOrdersOfCustomer(shahd_ghazal2002,Count).
 Count = 2.
 
-1
-
 3.  List all items in a specific customer order given customer id and
 order id.
 Example:

@@ -106,6 +106,6 @@ true.
 false.
 
 ## References
-https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset
-https://play.google.com/store/apps/details?id=com.moqate3.moqate3&hl=en_SG&gl=US
+https://github.com/TechForPalestine/boycott-israeli-consumer-goods-dataset<br>
+https://play.google.com/store/apps/details?id=com.moqate3.moqate3&hl=en_SG&gl=US<br>
 https://www.tutorialspoint.com/prolog/index.htm
